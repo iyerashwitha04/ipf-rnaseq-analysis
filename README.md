@@ -124,14 +124,20 @@ source("R/04_pathway_enrichment.R")
 
 ## Selected Figures
 
-> Add your actual figure images here once generated. Example:
+### Volcano Plot
+![Volcano Plot](results/figures/Volcano_plot.png)
 
-<!-- 
-![Volcano Plot](results/figures/volcano_plot.png)
+### PCA Plot
 ![PCA Plot](results/figures/pca_plot.png)
-![Top DEGs Heatmap](results/figures/heatmap_top50.png)
-![GO Enrichment Dotplot](results/figures/go_dotplot.png)
--->
+
+### Heatmap
+![Heatmap](results/figures/Heatmap.png)
+
+### GO Enrichment — Upregulated Genes
+![GO Upregulated](results/figures/GO_upregulated_dotplot.png)
+
+### GO Enrichment — Downregulated Genes
+![GO Downregulated](results/figures/GO_downregulated_dotplot.png)
 
 ---
 
